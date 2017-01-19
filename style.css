@@ -20,3 +20,19 @@ h3 {
   background-color: #bb0000;
   text-indent: 5px;
 }
+.subheading {
+  color: #3e3e3e;
+  background-color: #ecebeb;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.pana {
+  width: 1100px;
+  position: center;
+}
+h4 {
+  font-family: "Passion One";
+  font-size: 25px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}

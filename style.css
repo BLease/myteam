@@ -19,6 +19,7 @@ h3 {
   margin-bottom: 0px;
   background-color: #bb0000;
   text-indent: 5px;
+  font-size: 30px;
 }
 .subheading {
   color: #3e3e3e;
@@ -32,7 +33,7 @@ h3 {
 }
 h4 {
   font-family: "Passion One";
-  font-size: 25px;
+  font-size: 22px;
   margin-top: 0px;
   margin-bottom: 0px;
 }
